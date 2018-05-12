@@ -1,5 +1,8 @@
 _repo: Henry-the-Second_10494
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Alice Stopford
@@ -16,6 +19,8 @@ description: Biography of Henry II (1133-1189), who was King of England between 
   and 1189. He was of the House of Plantagenet, and encountered oppo- sition within
   England because of this. He expanded English territory on the continent (chiefly
   Normandy and Angevin), and tried three time unsuccessfully to conquer Ireland.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10494#Henry-the-Second
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
